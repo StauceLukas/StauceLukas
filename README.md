@@ -23,7 +23,7 @@
 ## My stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
+  <img align="rigth" src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
