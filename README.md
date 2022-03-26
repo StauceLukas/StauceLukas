@@ -13,7 +13,6 @@
 <p align="center">
   <img src="icons/javascript.png"/>
   <img src="icons/java.png"/>
-  <img src="icons/csharp.png"/>
   <img src="icons/python.png"/>
   <img src="icons/html-5.png"/>
   <img src="icons/css-3.png"/>
