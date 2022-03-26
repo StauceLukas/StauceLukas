@@ -9,13 +9,28 @@
 - Create my own personal blog website! :computer:
 
 ## My skillset:
-![Javascript](icons/javascript.png)
-![Java](icons/java.png)
-![HTML](icons/html-5.png)
-![CSS](icons/css-3.png)
+
+<p align="center">
+  <img src="icons/javascript.png"/>
+  <img src="icons/java.png"/>
+  <img src="icons/csharp.png"/>
+  <img src="icons/python.png"/>
+  <img src="icons/html-5.png"/>
+  <img src="icons/css-3.png"/>
+  <img src="icons/haskell.png"/>
+</p>
+
 
 ## My stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StauceLukas)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula&layout=compact" />
+</a>
+
 
 ## Contact:
 [![gmail](icons/gmail.png)][1] [![linkedIn](icons/linkedin.png)][2]
