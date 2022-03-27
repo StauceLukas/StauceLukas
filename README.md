@@ -2,6 +2,7 @@
 
 ## About me:
 
+
 ## My Goals:
 - Learn React! :open_book: 
 - Improve my OOP knowledge! :green_book: 
