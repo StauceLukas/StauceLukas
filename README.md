@@ -26,14 +26,9 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="reight" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula&layout=compact" />
 </a> 
 
-&nbsp
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=StauceLukas&theme=dracula" />
-</a>
 
 ## Contact:
 [![gmail](icons/gmail.png)][1] [![linkedIn](icons/linkedin.png)][2]
