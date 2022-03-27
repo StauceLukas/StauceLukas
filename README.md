@@ -4,7 +4,7 @@
 
 
 ## My Goals:
-- Learn React! :open_book: 
+- Learn Svelte! <img height="16" width="16" src="icons/svelte.svg" />
 - Improve my OOP knowledge! :green_book: 
 - Finish 3rd year of university! :school: 
 - Create my own personal blog website! :computer:
