@@ -23,7 +23,7 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
 
 ## My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
 </a>
 
 <br>
@@ -31,9 +31,8 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula" />
 </a> 
 
-<br>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=StauceLukas&theme=dracula&hide_border=false&date_format=%5BY%20%5DM%20j" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=StauceLukas&theme=dracula&hide_border=false&date_format=%5BY%20%5DM%20j" />
 </a> 
 
 ## Is this Patrick? No it is Lukas
