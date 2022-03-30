@@ -16,7 +16,7 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
 ## My Toolbelt <img src="icons/tool-box.png">
 
 <p align="center"> 
-  <img src="icons/javascript.png"/>
+  <img src="icons/java-script.png"/>
   <img src="icons/java.png"/>
   <img src="icons/python.png"/>
   <img src="icons/html-5.png"/>
