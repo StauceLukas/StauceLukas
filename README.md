@@ -1,7 +1,10 @@
 <img src="https://github.com/StauceLukas/StauceLukas/blob/main/cover.gif" alt="banner">
 
 ## Me, Myself and _Lukas_
+<p align="center">
 I am Lukas, studying Software Engineering at Vilnius University! What I am doing?? I don't know that why it is fun ! 😅
+
+</p>
 
 ## My Goals
 - Learn Svelte <img height="16" width="16" src="icons/svelte.svg" /> and React! <img height="16" width="16" src="icons/react(1).svg">
