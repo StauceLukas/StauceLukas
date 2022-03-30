@@ -28,7 +28,7 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StauceLukas&show_icons=true&theme=dracula" />
 </a> 
 
 <br>
