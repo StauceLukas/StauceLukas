@@ -13,18 +13,20 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
 - Finish 3rd year of university! :school: 
 - Create my own personal blog website! :computer:
 
-## My Toolbelt
+## My Toolbelt <img src="icons/tool-box.png">
 
-<p align="center">
+<p align="center"> 
   <img src="icons/javascript.png"/>
   <img src="icons/java.png"/>
   <img src="icons/python.png"/>
   <img src="icons/html-5.png"/>
   <img src="icons/css-3.png"/>
   <img src="icons/haskell.png"/>
+  <img src="icons/sass.png"/>
+  <img src="icons/postgre.png"/>
 </p>
 
-## My Stats
+## My Stats <img src="icons/analytics.png">
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=StauceLukas&show_icons=true&theme=dracula" />
