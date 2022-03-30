@@ -24,6 +24,8 @@ I am Lukas, studying Software Engineering at Vilnius University! What I am doing
   <img src="icons/haskell.png"/>
   <img src="icons/sass.png"/>
   <img src="icons/postgre.png"/>
+  <img height="64" width="64" src="icons/c.svg"/>
+  <img src="icons/c-sharp.png"/>
 </p>
 
 ## My Stats <img src="icons/analytics.png">
